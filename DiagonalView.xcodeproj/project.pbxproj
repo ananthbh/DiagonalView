@@ -13,6 +13,7 @@
 		18659627203343020068EC94 /* DiagonalView.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 18659625203343020068EC94 /* DiagonalView.xcdatamodeld */; };
 		18659629203343020068EC94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18659628203343020068EC94 /* Assets.xcassets */; };
 		1865962C203343020068EC94 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1865962A203343020068EC94 /* LaunchScreen.storyboard */; };
+		186596342033430F0068EC94 /* AngleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186596332033430F0068EC94 /* AngleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		18659628203343020068EC94 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1865962B203343020068EC94 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1865962D203343020068EC94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		186596332033430F0068EC94 /* AngleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AngleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				1865962A203343020068EC94 /* LaunchScreen.storyboard */,
 				1865962D203343020068EC94 /* Info.plist */,
 				18659625203343020068EC94 /* DiagonalView.xcdatamodeld */,
+				186596332033430F0068EC94 /* AngleView.swift */,
 			);
 			path = DiagonalView;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				186596342033430F0068EC94 /* AngleView.swift in Sources */,
 				18659621203343020068EC94 /* ViewController.swift in Sources */,
 				18659627203343020068EC94 /* DiagonalView.xcdatamodeld in Sources */,
 				1865961F203343020068EC94 /* AppDelegate.swift in Sources */,
